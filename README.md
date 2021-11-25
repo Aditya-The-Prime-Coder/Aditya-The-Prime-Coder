@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Aditya
-- 👀 I’m want to become a compute scientist
+- 👀 I’m want to become a Data scientist
 - 🌱 I’m currently learning Java and python
